@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+🌱 I’m currently learning Vue.js
+📫 How to reach me: kenshencu99@gmail.com
+⚡ Fun fact: Like to make friend
 <!--
 **Barney-m/Barney-m** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
