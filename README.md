@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning Vue.js <br/>
+- 🌱 I’m currently learning React JS <br/>
 - 📫 How to reach me: kenshencu99@gmail.com <br/>
 - ⚡ Fun fact: Like to make friend
 <!--
