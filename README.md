@@ -1,9 +1,8 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning React JS <br/>
+- 🌱 I’m currently learning Flutter 2 <br/>
 - 📫 How to reach me: kenshencu99@gmail.com <br/>
-- 🔭 I’m currently working on Getright Digital <br/>
-- ⚡ Fun fact: Working From Home
+- ⚡ Fun fact: Looking for a job
 <!--
 **Barney-m/Barney-m** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
