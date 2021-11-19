@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning Flutter 2 <br/>
 - 📫 How to reach me: kenshencu99@gmail.com <br/>
-- ⚡ Fun fact: Looking for a job
+
 <!--
 **Barney-m/Barney-m** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,4 +16,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- ⚡ Fun fact: Looking for a job
 -->
