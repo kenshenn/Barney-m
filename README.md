@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning Flutter 2 <br/>
+- 🌱 I’m currently working on Snackin' Whale Project (https://snackinwhale.com) <br/>
 - 📫 How to reach me: kenshencu99@gmail.com <br/>
 
 <!--
