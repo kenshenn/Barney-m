@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently working on Snackin' Whale Project (https://snackinwhale.com) & Pearlite KL Project (https://pearlitekl.com) <br/>
+- 🌱 I’m currently working on Pearlite KL Project (https://pearlitekl.com) <br/>
 - 📫 How to reach me: kenshencu99@gmail.com <br/>
 
 <!--
