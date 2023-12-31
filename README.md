@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently working on Pearlite KL Project (https://pearlitekl.com) <br/>
+- 🌱 I’m currently working on Pearlite KL Project (https://softlaunch.pearlitekl.com) <br/>
 - 📫 How to reach me: kenshencu99@gmail.com <br/>
 
 <!--
